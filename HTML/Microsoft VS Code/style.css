@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(244, 228, 140); color:rgb(152, 155, 110);
+    font-family: 'Poppins', sans-serif;
+}
+ 
+p {
+    color:rgb(3, 8, 3)
+}
+
+h1 {
+    color:rgb(125, 104, 240)
+}
+
+h2 {
+    color:rgb(181, 123, 215)
+}
+
+h3 {
+    color:blueviolet
+}
+
+.Fotogomitas{
+    color:rgb(125, 107, 51);
+    font-size:small;
+}
+
+.Principal{
+    width: /*ancho de la imagen*/ 350px;
+    height:280px ;
+    bottom: auto ;
+}
+
+.Segunda{
+    width: 350px;
+    height: 230px;
+    border-right: auto
+    ;
+}
+/*para agregar clase, ponemos ( . ) antes del nombre*/
